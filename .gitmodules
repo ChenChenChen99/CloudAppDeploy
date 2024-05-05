@@ -1,3 +1,6 @@
 [submodule "tf-gcp-infra"]
 	path = tf-gcp-infra
 	url = git@github.com:Qccchen/tf-gcp-infra.git
+[submodule "packer-image"]
+	path = packer-image
+	url = git@github.com:Qccchen/packer-image.git
